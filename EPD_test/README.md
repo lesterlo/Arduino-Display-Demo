@@ -1,6 +1,6 @@
 # Arduino E-paper Display (EPD) Demo
 
-
+![](docs/picture/epd_test_board.jpg)
 
 ## Introduction
 
